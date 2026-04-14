@@ -13,14 +13,14 @@
 </p>
 
 ### Tech Stack
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,nodejs,react,mongodb" />
   </a>
 </p>
-### GitHub Status
 
+
+### GitHub Status
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit0068&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
