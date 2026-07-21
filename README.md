@@ -1,6 +1,10 @@
 # < Hello, World! I am Harshit Singh
 
 ### About me
+EasySplit-https://easysplit-virid.vercel.app/
+Scout-Ai-https://scout-ai-tawny-five.vercel.app/
+
+
 * currently in learning phase 
 * contact:harshitsingh08062004@gmail.com
 
